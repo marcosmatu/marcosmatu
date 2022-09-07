@@ -1,9 +1,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions.\
+💡 &nbsp;  I like to explore new technologies and develop software solutions.\
 🎓 &nbsp; About to finish my Computer Science degree at Universidad Complutense de Madrid.\
 🌱 &nbsp; I'm on track for learning more about Artificial Intelligence and Deep Learning.\
-💼 &nbsp; Looking for a job that can help me gain new skills and improve. Eager to discover new work dynamics and face new challenges.\
+💼 &nbsp; Looking for a job that can help me gain new skills and improve. Eager to discover new work dynamics and face new challenges.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
