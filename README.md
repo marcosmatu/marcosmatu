@@ -37,6 +37,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/marcosmatutefernandez"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marcosmatutefernandez"><img src="https://img.shields.io/badge/-Marcos%20Matute%20Fernández-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="marcosmatutefernandez@gmail.com"><img src="https://img.shields.io/badge/-marcosmatutefernandez@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
